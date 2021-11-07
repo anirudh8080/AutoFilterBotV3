@@ -30,11 +30,11 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Odin V2.0
     
-➥ Creator : [Anirudh]
+➥ Creator : [Anirudh](nothing.here)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Tutorial : [Click Me]
+➥ Tutorial : [Click Me](nothing.here)
 """
