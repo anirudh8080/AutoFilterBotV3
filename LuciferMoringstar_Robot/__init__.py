@@ -30,11 +30,9 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Odin V2.0
     
-➥ Creator : [Anirudh](https://t.me/MovieHub_Main)
+➥ Creator : Anirudh
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : [Click Me](https://t.me/MovieHub_Main)
 """
